@@ -1,0 +1,12 @@
+c:\users\d_ant\source\repos\SampleTestHackerHank\SampleTestHackerHank\bin\Debug\SampleTestHackerHank.exe.config
+c:\users\d_ant\source\repos\SampleTestHackerHank\SampleTestHackerHank\bin\Debug\SampleTestHackerHank.exe
+c:\users\d_ant\source\repos\SampleTestHackerHank\SampleTestHackerHank\bin\Debug\SampleTestHackerHank.pdb
+c:\users\d_ant\source\repos\SampleTestHackerHank\SampleTestHackerHank\obj\Debug\SampleTestHackerHank.csproj.CoreCompileInputs.cache
+c:\users\d_ant\source\repos\SampleTestHackerHank\SampleTestHackerHank\obj\Debug\SampleTestHackerHank.exe
+c:\users\d_ant\source\repos\SampleTestHackerHank\SampleTestHackerHank\obj\Debug\SampleTestHackerHank.pdb
+C:\Labs\GitHub\SampleTestHackerHank\SampleTestHackerHank\bin\Debug\SampleTestHackerHank.exe.config
+C:\Labs\GitHub\SampleTestHackerHank\SampleTestHackerHank\bin\Debug\SampleTestHackerHank.exe
+C:\Labs\GitHub\SampleTestHackerHank\SampleTestHackerHank\bin\Debug\SampleTestHackerHank.pdb
+C:\Labs\GitHub\SampleTestHackerHank\SampleTestHackerHank\obj\Debug\SampleTestHackerHank.csproj.CoreCompileInputs.cache
+C:\Labs\GitHub\SampleTestHackerHank\SampleTestHackerHank\obj\Debug\SampleTestHackerHank.exe
+C:\Labs\GitHub\SampleTestHackerHank\SampleTestHackerHank\obj\Debug\SampleTestHackerHank.pdb
